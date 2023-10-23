@@ -1,5 +1,4 @@
-#  Repository title
-
+#  Demonstration of the LAGT corpus usag
 ---
 ## Authors
 * Vojtěch Kaše
